@@ -301,9 +301,9 @@
   结合多种 AI 模型，对图片进行换装、换脸等效果处理。  
   👉 <https://t.me/Xai1314bot?start=78YG7UDWXPT1JGI2>
 
-- **AI 贴纸大师 Bot** - `@StickerAIMakerBot`
-  AI 贴纸大师是 Telegram 机器人，把照片变成专属贴纸包
-  👉 <https://t.me/StickerAIMakerBot?start=source_gh-atcb>
+- **AI 贴纸大师 Bot** - `@StickerAIMakerBot`  
+  AI 贴纸大师是 Telegram 机器人，把照片变成专属贴纸包  
+  👉 <https://t.me/StickerAIMakerBot?start=source_gh-atcb>  
   
 ---
 
